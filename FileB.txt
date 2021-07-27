@@ -1,1 +1,1 @@
-"This is called as FileB-Version2" 
+"This is called as FileB-Version2-Squash Merge1"
